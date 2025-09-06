@@ -34,6 +34,10 @@ Esta guía presenta ejercicios prácticos para aprender HTML, CSS y cómo integr
 <br><br>
 <i>(Tarea: revisar como se crea un template en Flask)</i>
 
+### Ejercicio 3a:
+> Agregar un enlace al sitio https://www.google.com.ar/ el el texto `"Hola Flask!"`, de manera tal que al hacer click en el texto, el navegador Web redirija al buscador de Google
+<br><br><i>(Pista: hay un elemento de HTML que nos permite hacer esto)</i>
+
 ### Ejercicio 4 😈:
 > A la aplicación del ejercicio 2 agregar una función `datos_contacto()` que esté enlazada a la ruta `"/contacto"`. Dicha ruta, al ser invocada desde el navegador web debe devolver un "template" llamado `contacto.html` que contenga en su interior el siguiente texto:
 <br><br>
@@ -94,7 +98,6 @@ Luego, la ruta `"/contacto"` debe contener un formulario (`<form>`) para sugerir
 
 > De momento, el botón "Enviar" no hace nada. Eso lo veremos en las clases de <i>back-end</i>.<br>
 > (Pista: https://www.w3schools.com/html/html_forms.asp)
-
 
 ### Ejercicio 10 😈:
 > A la aplicación del ejercicio anterior, reemplazar la lista de productos por la siguiente:
